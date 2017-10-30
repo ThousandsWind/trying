@@ -22,6 +22,8 @@ public class HeyHey {
            System.out.print("yeah yeah fuck u all");
             System.out.print("yeah yeah fuck u all");
              System.out.print("yeah yeah fuck u all");
+        System.out.print("TIme to be serious");
+        
     }
     
 }
