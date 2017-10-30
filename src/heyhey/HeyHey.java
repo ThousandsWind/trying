@@ -17,6 +17,11 @@ public class HeyHey {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("yeah yeah fuck u all");
+         System.out.print("yeah yeah fuck u all");
+          System.out.print("yeah yeah fuck u all");
+           System.out.print("yeah yeah fuck u all");
+            System.out.print("yeah yeah fuck u all");
+             System.out.print("yeah yeah fuck u all");
     }
     
 }
